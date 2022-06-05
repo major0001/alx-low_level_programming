@@ -1,10 +1,13 @@
 #include <stdio.h>
 /**
- * main - Write '"Programming is like building a multilingual puzzle'
- *Return: Always 0 (success)
-*/
+ * main - Prints out a string to stdout
+ *
+ * Description: this prints out string
+ * 
+ * Return: Always 0 if success
+ */
 int main(void)
-{
+{  
 puts("\"Programming is like buliding a multilingual puzzle");
 return (0);
 }
