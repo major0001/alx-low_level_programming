@@ -1,13 +1,13 @@
 #include <stdio.h>
-#include <unistd.h>
+
 /**
- * main -Entry point
- * Return:Always 1 (Success)
- */
+* main - This function prints out the following string to standard error
+* and that piece of art is useful" - Dora Korpar, 2015-10-19
+* Return: This function returns 1
+*/
 int main(void)
 {
-char ch[] = "and that piece of art is useful\" - Dora Korpar, 2015-10-19\n";
-
-write(2, ch, sizeof(ch));
-return (1);
+	fprintf(stderr, "and that piece of art is useful\" - Dora Korpar, ");
+	fprintf(stderr, "2015-10-19\n");
+	return (1);
 }
