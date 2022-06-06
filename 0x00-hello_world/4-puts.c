@@ -5,10 +5,10 @@
  * Description: this prints out string
  * 
  * Return: Always 0 if success
- */
+*/
 int main(void)
 {  
-puts("\"Programming is like buliding a multilingual puzzle");
+puts("\"Programming is like building a multilingual puzzle");
 return (0);
 }
 
