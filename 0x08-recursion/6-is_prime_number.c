@@ -1,4 +1,4 @@
-#include "holberton.h"
+#include "main.h"
 #include <stdio.h>
 /**
  * is_divisible - Checks if a number is divisible.
