@@ -37,10 +37,11 @@ working in the C programming language. The specific list of projects contained f
 * [0x1D. C - Binary trees](https://github.com/aysuarex/binary_trees/tree/main)
 * [0x1E. C - Search Algorithms](./0x1E-search_algorithms)
 
-## Author :
-* **[Suara Ayomide](https://twitter.com/Aysuarex)** <[Aysuarex](https://github.com/Aysuarex)>
 
-## Acknowledgements :pray:
+## Author :
+Alex Wambua
+
+Acknowledgements :Glory to the Almighty :
 
 All work contained in this project was completed as part of the 
 curriculum for the ALX-SE programme. ALX Africa is an online 
