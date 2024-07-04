@@ -2,7 +2,7 @@
 #define DOG
 
 /**
- * struct dpg - dog class
+ * struct dog - dog class
  *
  * @name: Name of the dog
  *
