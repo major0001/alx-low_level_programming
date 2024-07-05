@@ -2,7 +2,7 @@
 
 /**
  * init_dog - initializes a structure of type dog
- * @4: pointer to structure
+ * @d: pointer to structure
  * @name: pointer to the name of the dog
  * @age: age of dog
  * @owner: pointer to owner of dog
